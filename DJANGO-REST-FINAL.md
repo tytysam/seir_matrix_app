@@ -19,13 +19,13 @@ Users must be able,
 
 Model name : `Location`
 <ul>
- <li>name: The max char length for this field is 200 characters</li>
+ <li>name: The field length should not exceed over 200 characters</li>
  <li>owner: This field ties to the User model from the authentication app</li>
 </ul>
 
 Model name : `Park`
 <ul>
- <li>park_name: The max char length for this field is 90 characters</li>
+ <li>park_name: he field length should not exceed over 90 characters</li>
  <li>park_description: This field should be a text field</li>
  <li>location: This is a `FK` relationship to the location model</li>
 </ul>
