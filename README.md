@@ -1,7 +1,7 @@
 # W10D05-HW
 
 ### 1. DJANGO REST: 3hr
-- [DJANGO REST](https://git.generalassemb.ly/SEIR-224/W10D05-HW/blob/master/DJANGO-REST-FINAL)
+- [DJANGO REST](https://git.generalassemb.ly/SEIR-224/W10D05-HW/blob/master/DJANGO-REST-FINAL.md)
 
 ### 2. Watch - EST TIME: NA
 
