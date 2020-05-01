@@ -22,7 +22,7 @@ Model name : `Location`
 
 Model name : `Park`
 <ul>
- <li>park_name: he field length should not exceed over 90 characters</li>
+ <li>park_name: The field length should not exceed over 90 characters</li>
  <li>park_description: This field should be a text field</li>
  <li>location: This is a `FK` relationship to the location model</li>
 </ul>
