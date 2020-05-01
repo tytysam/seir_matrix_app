@@ -1,5 +1,5 @@
 
-# DJANGO REST AUTH + APP
+# DJANGO REST + APP
 
 ## Initial setup
 [FOLLOW THESE STEPS](https://git.generalassemb.ly/SEIR-224/DJANGO-SETUP/blob/master/README.md)
