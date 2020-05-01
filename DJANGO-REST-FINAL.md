@@ -5,7 +5,7 @@
 [FOLLOW THESE STEPS](https://git.generalassemb.ly/SEIR-224/DJANGO-SETUP/blob/master/README.md)
 
 ## What you'll be delivering. 
-You'll be building DJANGO REST API with JWT authentication, where the user can login and store national parks information.  
+You'll be building DJANGO REST API where the user can store national parks information.  
 
 Users must be able,
  - Create park location, and information
