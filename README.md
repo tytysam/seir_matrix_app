@@ -5,8 +5,6 @@
 
 ### 2. Watch - EST TIME: NA
 
-### 3. Read - EST TIME: 1hr
-- (What is PIP?)(https://realpython.com/what-is-pip/)
 ### 3. Algo Practice - EST TIME: NA
 
 ### 4.  Interview Practice - EST TIME: 20min
