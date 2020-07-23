@@ -14,7 +14,7 @@ Get a head start on your P4 project
 
 ### 3. Algo Practice - EST TIME: NA
 
-[where do I belong?](./wheredoibelong.md)
+- [WHERE DO I BELONG](./wheredoibelong.md)
 
 ### 4.  Interview Practice - EST TIME: 20min
 
