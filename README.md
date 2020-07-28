@@ -9,10 +9,17 @@ Get a head start on your P4 project
 
 - [P4 Prompt](https://git.generalassemb.ly/SEIR-526/project-4)
 
-### 2. Watch - EST TIME: 20min
+### 2. Watch/Read - EST TIME: 20min
 
-[Composition vs Inheritance in JavaScript](https://www.youtube.com/watch?v=fbpXQ0e8Mp8&t=4s)
-- Watching this is needed to answer the interview question
+- Read
+ - [Read the following sections on Rails Migrations:](https://stackify.com/rails-migration-a-complete-guide/)
+  - What’s a Rails migration?
+  - Why would I need it?
+  - What can I do with it?
+
+- Watch
+ - [Composition vs Inheritance in JavaScript](https://www.youtube.com/watch?v=fbpXQ0e8Mp8&t=4s)
+   - Watching this is needed to answer the interview question
 
 ### 3. Algo Practice:
 
