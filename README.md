@@ -2,7 +2,7 @@
 
 # W12D04-HW
 
-### 1. Glitch in the Matrix, Postgres Practice and Project Prompt
+### 1. Glitch in the Matrix
 
 - Glitch In the Matrix
   - [Glitch in the Matrix](./glitch.md)
