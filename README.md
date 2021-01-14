@@ -7,6 +7,6 @@
 - Glitch In the Matrix
   - [Glitch in the Matrix](https://git.generalassemb.ly/SEIR-526/glitch_in_the_matrix)
 
-### 3. Algo Practice:
+### 2. Algo Practice:
 
 - [WHERE DO I BELONG](./wheredoibelong.md)
